@@ -1,0 +1,2 @@
+module SArtistsHelper
+end
